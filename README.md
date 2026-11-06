@@ -36,3 +36,11 @@ ng serve
 ## Avance 1
 
 Proyecto correspondiente al Avance 1 del curso Desarrollo Web en Entorno Servidor.
+
+## Funcionalidades implementadas
+
+- Gestión de productos Pokémon TCG.
+- Gestión de categorías.
+- Gestión de pedidos.
+- Repositorio genérico en TypeScript.
+- Herencia y polimorfismo.
