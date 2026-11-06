@@ -44,3 +44,13 @@ Proyecto correspondiente al Avance 1 del curso Desarrollo Web en Entorno Servido
 - Gestión de pedidos.
 - Repositorio genérico en TypeScript.
 - Herencia y polimorfismo.
+
+## Estructura del repositorio
+
+- frontend
+- prototipo-ts
+- bocetos
+
+## Estado del proyecto
+
+Avance 1 completado.
