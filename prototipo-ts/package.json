@@ -1,0 +1,17 @@
+{
+  "name": "pokestock-prototipo",
+  "version": "1.0.0",
+  "description": "Prototipo TypeScript de PokeStock",
+  "type": "module",
+  "main": "dist/main.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/main.js"
+  },
+  "keywords": [],
+  "author": "Nelson Rojas Arrieta",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

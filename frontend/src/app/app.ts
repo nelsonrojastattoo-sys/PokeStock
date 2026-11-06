@@ -1,0 +1,19 @@
+import { Component } from '@angular/core';
+
+import { Header } from './components/header/header';
+import { Footer } from './components/footer/footer';
+import { InicioComponent } from './components/inicio/inicio';
+
+@Component({
+  selector: 'app-root',
+  imports: [
+    Header,
+    InicioComponent,
+    Footer
+  ],
+  templateUrl: './app.html',
+  styleUrl: './app.css'
+})
+export class App {
+
+}
